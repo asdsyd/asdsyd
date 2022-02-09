@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java programming language!
+🌱 I’m currently learning Java and Web development!
 
 🤔 I’m looking for help with Open Source Contribution.
 
 👯 I’m looking to collaborate on hackathons, ping me if interested.
 
+😄 Pronouns: He/Him
+
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
-
-
-
-
+Update: V-2.1 9 feb 2022
 
 
 
