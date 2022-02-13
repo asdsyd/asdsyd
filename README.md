@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
-##Update: V-2.1 9 feb 2022
+Update: V-2.1 9 feb 2022
 
 
 
