@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on hackathons, ping me if interested.
 
-😄 Pronouns: He/Him
+📫 How to reach me: Telegram/asdsyd
 
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
-Update: V-2.1 9 feb 2022
+Update: V-2.5 20 feb 2022
 
 
 
