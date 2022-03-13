@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
-Update: V-3.0 13 mar 2022
+Update: V-3.2 14 mar 2022
 
 <a href="https://www.linkedin.com/in/asdsyd/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -32,6 +32,10 @@ Update: V-3.0 13 mar 2022
 <a href="https://twitter.com/asdsydd">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
+<a href="mailto:ashasd02@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+https://cdn-icons-png.flaticon.com/512/5968/5968804.png
 <a href="mailto:ashasd02@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
