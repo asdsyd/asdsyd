@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on hackathons, ping me if interested.
 
-📫 How to reach me: Telegram/asdsyd
-
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 Update: V-3.3 14 mar 2022
@@ -39,6 +37,14 @@ Update: V-3.3 14 mar 2022
 <a href="https://t.me/asdsyd">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />
 </a>
+
+
+
+
+
+
+
+
 
 
 
