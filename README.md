@@ -43,11 +43,11 @@ Update: V-3.5 21 apr 2022 <BR>
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />
 </a>
   
-<br>
+<br> <br>
   	<a href="https://cloud.appwrite.io/card/645140dc377ba28001a5">
 		<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645140dc377ba28001a5" alt="Appwrite Cloud Card" />
 	</a>
-<br>
+<br> <br>
 
 [![@asdsyd's Holopin board](https://holopin.me/asdsyd)](https://holopin.io/@asdsyd)
 
