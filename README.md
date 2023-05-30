@@ -66,14 +66,6 @@ Update: V-4.0 30 may 2023 <BR>
 <br />
 <br />
 
-<a href="https://twitter.com/asdsydd">
-  <img align="right" alt="Asad Sayeed | Twitter" width="21px" src="https://raw.githubusercontent.com/asdsyd/asdsyd/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/asdsyd">
-  <img align="right" alt="Asad Sayeed | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/asdsyd/asdsyd/master/assets/codesandbox.svg" />
-</a>
-
-
 
 
 
