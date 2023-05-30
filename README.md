@@ -1,5 +1,6 @@
 ### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+I'm a FrontEnd developer from India 🇮🇳
 <!--
 **asdsyd/asdsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Web development!
+🌱 I’m currently learning VueJS, Linux and DSA!
 
 🤔 I’m looking for help with Open Source Contribution.
 
@@ -22,11 +23,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
-Update: V-3.5 21 apr 2022 <BR>
+💬 Ask me about anything [here](https://github.com/asdsyd/asdsyd/issues)
 
-`NEW UPDATE AKA 'TIME FOR A BIG CHANGE'` <BR>
-`COMING JUNE 2023` <BR>
-`STAY TUNED!`
+Update: V-4.0 30 may 2023 <BR>
 
 <a href="https://www.linkedin.com/in/asdsyd/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -51,6 +50,28 @@ Update: V-3.5 21 apr 2022 <BR>
 
 [![@asdsyd's Holopin board](https://holopin.me/asdsyd)](https://holopin.io/@asdsyd)
 
+| <a href="https://github.com/asdsyd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asdsyd&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asad's github stats" /></a> | <a href="https://github.com/asdsyd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdsyd&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/asdsyd/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asdsyd&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/asdsyd/asdsyd.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asdsyd&repo=asdsyd.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/asdsydd">
+  <img align="right" alt="Asad Sayeed | Twitter" width="21px" src="https://raw.githubusercontent.com/asdsyd/asdsyd/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/asdsyd">
+  <img align="right" alt="Asad Sayeed | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/asdsyd/asdsyd/master/assets/codesandbox.svg" />
+</a>
 
 
 
