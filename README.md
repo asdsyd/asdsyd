@@ -53,15 +53,7 @@ Update: V-4.0 30 may 2023 <BR>
 | <a href="https://github.com/asdsyd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asdsyd&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asad's github stats" /></a> | <a href="https://github.com/asdsyd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdsyd&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
-
-<a href="https://github.com/asdsyd/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asdsyd&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/asdsyd/asdsyd.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asdsyd&repo=asdsyd.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
