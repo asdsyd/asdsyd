@@ -34,13 +34,7 @@ Update: V-4.0 30 may 2023 <BR>
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 <a href="https://dev.to/asdsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asdsyd" height="30" width="40" /></a>
-<a href="mailto:ashasd02@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
 
-<a href="https://t.me/asdsyd">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />
-</a>
   
 <br>
   	<a href="https://cloud.appwrite.io/card/645140dc377ba28001a5">
