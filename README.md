@@ -1,31 +1,16 @@
 ### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I'm a FrontEnd developer from India 🇮🇳
+<img src="https://developer.apple.com/news/images/og/apple-developer-og.png">
+<img src="https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1641468240122-G9IZXP9DONZ52U8ZDPIP/Mac+Red.png?format=750w">
 <!--
 **asdsyd/asdsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning VueJS, Linux and DSA!
 
-🤔 I’m looking for help with Open Source Contribution.
-
-👯 I’m looking to collaborate on hackathons, ping me if interested.
-
-⚡ Fun fact: Hot water will turn into ice faster than cold water.
+🌱 I’m currently SwiftUI!
 
 💬 Ask me about anything [here](https://github.com/asdsyd/asdsyd/issues)
 
-Update: V-4.0 30 may 2023 <BR>
+Update: V-4.1 5 dec 2023 <BR>
 
 <a href="https://www.linkedin.com/in/asdsyd/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
