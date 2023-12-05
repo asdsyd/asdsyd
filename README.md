@@ -1,6 +1,5 @@
-<h3 style="text-align: center;">Hi there! 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-</h3>
+### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <img src="https://developer.apple.com/news/images/og/apple-developer-og.png"
 height="422px"
 width="750px">
