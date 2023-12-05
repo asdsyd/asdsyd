@@ -6,7 +6,7 @@ width="750px">
 <img src="https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1641468240122-G9IZXP9DONZ52U8ZDPIP/Mac+Red.png?format=750w">
 
 
-<p font-family="-apple-system-footnote"> Update: V-4.2 5 dec 2023 </p>
+<p font-family="-apple-system-footnote"> Update: Ver-4.3 | 5 Dec 2023 |</p>
 
 
 
