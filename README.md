@@ -14,23 +14,17 @@ width="750px">
 
 Update: V-4.1 5 dec 2023 <BR>
 
-<a href="https://www.linkedin.com/in/asdsyd/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/asdsydd">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="https://dev.to/asdsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asdsyd" height="30" width="40" /></a>
-
   
 <br>
   	<a href="https://cloud.appwrite.io/card/645140dc377ba28001a5">
 		<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645140dc377ba28001a5" alt="Appwrite Cloud Card" />
 	</a>
 <br>
+<br>
 
 [![@asdsyd's Holopin board](https://holopin.me/asdsyd)](https://holopin.io/@asdsyd)
-
+<br>
+<br>
 | <a href="https://github.com/asdsyd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asdsyd&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asad's github stats" /></a> | <a href="https://github.com/asdsyd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdsyd&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
