@@ -1,12 +1,35 @@
-### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Asad!
 
-<img src="https://developer.apple.com/news/images/og/apple-developer-og.png"
-height="422px"
-width="750px">
-<img src="https://images.squarespace-cdn.com/content/v1/51a26726e4b0f0ad7357f298/1641468240122-G9IZXP9DONZ52U8ZDPIP/Mac+Red.png?format=750w">
+![Image 06-11-24 at 9 04 AM](https://github.com/user-attachments/assets/ada6b7b5-9d86-4ac7-8813-fbd79141291e)
 
+🎓 **CS Graduate** from MJCET and **Diploma** from IIT Madras  
+📱 **Certified iOS Developer** | 🎨 **UI/UX Designer**
 
-<p font-family="-apple-system-footnote"> Update: Ver-4.3 | 5 Dec 2023 |</p>
+---
+
+## 🚀 About Me
+ iOS Developer with a keen interest in design. Enthusiastic about leveraging Cloud technologies and power of Artificial Intelligence. 🤖
+Freshly graduated Computer Science Student. Let's build innovative solutions together! 🚀
+
+## 💪 My Skills
+- **Programming Languages**: Swift, Python
+- **Design Tools**: Figma, Canva, Sketch, Framer
+- **Artificial Intelligence**: Azure AI Studio.
+
+## 🌱 Current Endeavors
+- **indie iOS Developer** at AppStore
+- [Checkout my apps on the appstore!](https://apps.apple.com/in/developer/mohammed-asadullah-sayeed/id1759296244)
+
+---
+
+## 🔗 Let's Connect!
+I love networking and collaborating with fellow tech enthusiasts! Feel free to reach out:
+- [LinkedIn Profile](https://www.linkedin.com/in/asdsyd/)
+
+Always up for a challenge and excited to learn new things! Let’s build something amazing together! 🚀
+
+<p font-family="-apple-system-footnote"> Update: Ver-6.0 | 6 Nov 2024 |</p>
+
 
 
 
