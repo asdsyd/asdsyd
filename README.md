@@ -1,11 +1,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Asad!
 
-![Image 06-11-24 at 9 04 AM](https://github.com/user-attachments/assets/ada6b7b5-9d86-4ac7-8813-fbd79141291e)
+![Image 06-11-24 at 9 04 AM](https://github.com/user-attachments/assets/30929842-92cc-4e3d-a064-29ce8d41dd8a)
 
 🎓 **CS Graduate** from MJCET and **Diploma** from IIT Madras  
 📱 **Certified iOS Developer** | 🎨 **UI/UX Designer**
-
----
 
 ## 🚀 About Me
  iOS Developer with a keen interest in design. Enthusiastic about leveraging Cloud technologies and power of Artificial Intelligence. 🤖
@@ -19,8 +17,6 @@ Freshly graduated Computer Science Student. Let's build innovative solutions tog
 ## 🌱 Current Endeavors
 - **indie iOS Developer** at AppStore
 - [Checkout my apps on the appstore!](https://apps.apple.com/in/developer/mohammed-asadullah-sayeed/id1759296244)
-
----
 
 ## 🔗 Let's Connect!
 I love networking and collaborating with fellow tech enthusiasts! Feel free to reach out:
