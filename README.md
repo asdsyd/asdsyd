@@ -1,8 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Asad!
 ![Image 06-11-24 at 9 04 AM](https://github.com/user-attachments/assets/30929842-92cc-4e3d-a064-29ce8d41dd8a)
 
-🎓 **CS Graduate** from MJCET and **Diploma** from IIT Madras  
-📱 **Certified iOS Developer** | 🎨 **UI/UX Designer**
+🎓 **CS Graduate** from MJCET and **Diploma** from IIT Madras  📱 **Certified iOS Developer** | 🎨 **UI/UX Designer**
 
 ## 🚀 About Me
  iOS Developer with a keen interest in design. Enthusiastic about leveraging Cloud technologies and power of Artificial Intelligence. 🤖
