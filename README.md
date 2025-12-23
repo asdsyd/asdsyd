@@ -1,49 +1,62 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Asad!
-![Image 06-11-24 at 9 04 AM](https://github.com/user-attachments/assets/30929842-92cc-4e3d-a064-29ce8d41dd8a)
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/>
+  <h1>Hi, I'm Asad Sayeed</h1>
+  
+  ![Banner](https://github.com/user-attachments/assets/30929842-92cc-4e3d-a064-29ce8d41dd8a)
 
-🎓 **CS Graduate** from MJCET and **Diploma** from IIT Madras  📱 **Certified iOS Developer** | 🎨 **UI/UX Designer**
+  <p>
+    <strong>IT Support Specialist</strong> at <strong>blackbelt360</strong><br>
+    <i>Bridging technology and people through Cloud infrastructure, AI-powered solutions, and innovative design.</i>
+  </p>
 
-## 🚀 About Me
- iOS Developer with a keen interest in design. Enthusiastic about leveraging Cloud technologies and power of Artificial Intelligence. 🤖
-Freshly graduated Computer Science Student. Let's build innovative solutions together! 🚀
+  <p>
+    <a href="https://www.linkedin.com/in/asdsyd/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://apps.apple.com/in/developer/mohammed-asadullah-sayeed/id1759296244"><img src="https://img.shields.io/badge/My_Apps-App_Store-000000?style=social&logo=apple" alt="App Store"></a>
+  </p>
+</div>
 
-## 💪 My Skills
-- **Programming Languages**: Swift, Python
-- **Design Tools**: Figma, Canva, Sketch, Framer
-- **Artificial Intelligence**: Azure AI Studio.
+---
 
-## 🌱 Current Endeavors
-- **indie iOS Developer** at AppStore
-- [Checkout my apps on the appstore!](https://apps.apple.com/in/developer/mohammed-asadullah-sayeed/id1759296244)
+### 🚀 About Me
 
-## 🔗 Let's Connect!
-I love networking and collaborating with fellow tech enthusiasts! Feel free to reach out:
-- [LinkedIn Profile](https://www.linkedin.com/in/asdsyd/)
+I am an **IT Support Specialist** and **Cloud Enthusiast** based in Dubai, with a creative background as an **Indie iOS Developer**. 
 
-Always up for a challenge and excited to learn new things! Let’s build something amazing together! 🚀
+Currently, I work at **blackbelt360**, where I manage multi-cloud environments and implement AI automation to streamline workflows. I hold a **B.E. in Computer Science** from MJCET and a **Diploma in Programming** from IIT Madras. I am passionate about the intersection of DevOps, Generative AI, and intuitive UI/UX design.
 
-<p font-family="-apple-system-footnote"> Update: Ver-6.0 | 6 Nov 2024 |</p>
+---
 
+### 🛠 Tech Stack & Tools
 
+| **Cloud Infrastructure** | **AI & Automation** | **DevOps & Backend** | **Design & UI** |
+|:---:|:---:|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) <br> ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) <br> ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) <br> ![Adobe](https://img.shields.io/badge/Adobe_CC-FF0000?style=flat&logo=adobe&logoColor=white) |
 
+---
 
+### 💼 Professional Experience
 
+**IT Support Specialist @ blackbelt360**
+* ☁️ **Infrastructure:** Managing cloud resources across AWS (EC2, S3, Lambda, IAM), Azure (AD, DevOps, VM), and GCP.
+* 🤖 **AI Integration:** Implementing tools like ChatGPT, Claude, and GitHub Copilot to enhance team productivity.
+* 🛠 **Support:** Troubleshooting hardware/software and designing intuitive internal tools using Figma.
 
+---
 
+### 📱 Featured Project
 
+<div align="center">
+  <h3>FlavorVista AI</h3>
+  <p><i>Now available on the App Store</i></p>
+  <a href="https://apps.apple.com/in/developer/mohammed-asadullah-sayeed/id1759296244">
+    <img src="https://img.shields.io/badge/Download_Now-App_Store-000000?style=social&logo=apple" alt="Download FlavorVista" />
+  </a>
+</div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=radical&hide_border=true" alt="Asad's Github Stats" />
+  </p>
+  <p font-family="-apple-system-footnote" font-size="small">Last Updated: Ver-7.1 | Dec 2025</p>
+</div>
